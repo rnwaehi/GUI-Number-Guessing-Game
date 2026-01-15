@@ -32,3 +32,7 @@ the user.
 ## Screenshots
 
 ![Screenshot](https://i.ibb.co/hJCZvxmy/Screenshot-20260115-230753-1.jpg)
+![Screenshot](https://i.ibb.co/DgMxMfsF/Screenshot-20260115-230806-1.jpg)
+![Screenshot](https://i.ibb.co/xq5RY9D5/Screenshot-20260115-230819-1.jpg)
+![Screenshot](https://i.ibb.co/RTBHcp0S/Screenshot-20260115-231605-1.jpg)
+
