@@ -25,7 +25,7 @@ then a Game over message is shown with the random number that was hidden from
 the user.
 
 ## Software Used
-- The game was using Python's IDE (3.13.7): 
+- The game was coded using Python's IDE (3.13.7): 
 - The game was programmed only in python.
 
 ## Screenshots
