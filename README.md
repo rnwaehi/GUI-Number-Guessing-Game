@@ -23,6 +23,7 @@ or till they guess the right number.
 the player by showing victory message. However, if they ran out of attempts
 then a Game over message is shown with the random number that was hidden from
 the user.
+6. Restart Feature: There is also a restart button located at the bottom of the game screen. The user can choose to restart the game when its not finished or after it is over.
 
 ## Software Used
 - The game was coded using Python's IDE (3.13.7): 
