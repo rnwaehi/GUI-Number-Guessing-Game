@@ -30,4 +30,4 @@ the user.
 
 ## Screenshots
 
-![Screenshot]([url=https://imgbb.com/][img]https://i.ibb.co/CsQTfDYf/Guessing-Game-Main-Menu.jpg[/img][/url])
+![Screenshot](https://i.ibb.co/CsQTfDYf/Guessing-Game-Main-Menu.jpg)
