@@ -30,4 +30,4 @@ the user.
 
 ## Screenshots
 
-![Screenshot](https://ibb.co/Lh123Hc3)
+![Screenshot](https://ibb.co/Lh123Hc3.png)
