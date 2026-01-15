@@ -31,4 +31,4 @@ the user.
 
 ## Screenshots
 
-![Screenshot](https://i.ibb.co/CsQTfDYf/Guessing-Game-Main-Menu.jpg)
+![Screenshot](https://i.ibb.co/hJCZvxmy/Screenshot-20260115-230753-1.jpg)
